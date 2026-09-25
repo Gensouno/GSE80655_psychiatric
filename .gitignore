@@ -1,0 +1,12 @@
+# 大数据文件，脚本会自动从 GEO 下载
+data/GSE80655_GeneExpressionData_Updated_3-26-2018.txt.gz
+data/GSE80655_GeneExpressionData_Updated_3-26-2018.txt
+data/GPL11154.soft.gz
+data/expr_counts.csv
+
+# R 临时文件
+.Rhistory
+.RData
+.Rapp.history
+ppt_work/
+.DS_Store

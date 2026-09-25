@@ -1,0 +1,4 @@
+"Classifier","Sample_AUC","Individual_AUC"
+"LASSO",0.857,0.891
+"Elastic Net",0.924,0.938
+"Random Forest",0.857,0.891
